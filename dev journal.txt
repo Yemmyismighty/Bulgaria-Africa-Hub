@@ -1,0 +1,8 @@
+Starting terminal code:
+	node -v
+	npm install typescript --save-dev
+
+Changing default fonts:
+	check globals.css
+	configure in tailwind.config.ts
+
