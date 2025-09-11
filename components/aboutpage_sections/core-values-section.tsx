@@ -28,7 +28,7 @@ const coreValues = [
       "We celebrate diversity and promote mutual respect in every interaction.",
     icon: Network,
   },
-];
+]
 
 export function CoreValues() {
   const { ref: headerRef, isVisible: headerVisible } = useScrollReveal()
